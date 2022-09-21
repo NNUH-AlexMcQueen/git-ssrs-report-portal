@@ -1013,7 +1013,7 @@
                                   </Style>
                                 </TextRun>
                                 <TextRun>
-                                  <Value> tabs. I have changed this. </Value>
+                                  <Value> tabs.</Value>
                                   <Style>
                                     <FontSize>12pt</FontSize>
                                     <FontWeight>Normal</FontWeight>
