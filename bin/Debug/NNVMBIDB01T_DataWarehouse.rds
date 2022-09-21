@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="NNVMBIDB01T_DataWarehouse">
-  <ConnectionProperties>
-    <Extension>SQL</Extension>
-    <ConnectString>Data Source=NNVMBIDB01T;Initial Catalog=DataWarehouse</ConnectString>
-  </ConnectionProperties>
-  <DataSourceID>2edc15ff-4d15-4802-a243-d4ab7555bd4d</DataSourceID>
-</RptDataSource>
